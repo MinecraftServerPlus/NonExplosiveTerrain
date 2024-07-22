@@ -1,0 +1,4 @@
+name: NonExplosiveTerrain
+version: '1.0-SNAPSHOT'
+main: io.github.vitelotte.nonexplosiveterrain.NonExplosiveTerrain
+api-version: '1.21'
